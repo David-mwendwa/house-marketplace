@@ -102,7 +102,7 @@ function SignUp() {
           </form>
 
 
-          <Link to='/sign-up' className='registerLink'>Sign In Instead</Link>
+          <Link to='/sign-in' className='registerLink'>Sign In Instead</Link>
         </main>
       </div>
     </>
